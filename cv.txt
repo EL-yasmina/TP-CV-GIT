@@ -1,0 +1,33 @@
+EL TAIEBI Yasmina
+Dévellopeuse application Web
+
+Téléphone: 06.00.00.00.00
+Email: yasminataif99@gmail.com
+Adresse: 5 Rue du chatou Paris 75011
+Experience
+Web Developpeuse, Y Company
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ab id laboriosam, reiciendis recusandae autem aut ipsa numquam nisi sit qui magnam saepe, nesciunt dolor provident laborum cumque commodi? Deleniti.
+
+Education
+dipôlome concepteur developpeur d'application(Bac+3)
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ab id laboriosam, reiciendis recusandae autem aut ipsa numquam nisi sit qui magnam saepe, nesciunt dolor provident laborum cumque commodi? Deleniti.
+
+Compétences
+langages de programmation
+HTML
+CSS
+JavaScript
+Bootstrap
+Autre Compétences
+GIT
+jQuery
+UI/UX Design
+Projets
+Projet 1
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ab id laboriosam, reiciendis recusandae autem aut ipsa numquam nisi sit qui magnam saepe, nesciunt dolor provident laborum cumque commodi? Deleniti.
+
+Projet 2
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ab id laboriosam, reiciendis recusandae autem aut ipsa numquam nisi sit qui magnam saepe, nesciunt dolor provident laborum cumque commodi? Deleniti.
+
+Projet 2
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ab id laboriosam, reiciendis recusandae autem aut ipsa numquam nisi sit qui magnam saepe, nesciunt dolor provident laborum cumque commodi? Deleniti.
